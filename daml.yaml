@@ -1,0 +1,7 @@
+sdk-version: 0.13.16
+name: chat
+source: daml/Chat.daml
+version: 0.1.0
+dependencies:
+  - daml-prim
+  - daml-stdlib
