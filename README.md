@@ -11,7 +11,7 @@
 
 ## Building
 
-1. Copy the compiled bindings into the folder lib
+1. Copy the compiled bindings into the folder `lib`
 2. Build with `stack build`
 
 
